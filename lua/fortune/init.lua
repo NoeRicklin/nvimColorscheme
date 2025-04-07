@@ -5,5 +5,6 @@ M.load = function()
 		vim.api.nvim_set_hl(0, hl, color)
 	end
 end
+vim.opt.guicursor:append("a:Cursor")
 
 return M
