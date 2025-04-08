@@ -1,6 +1,6 @@
 local colors = {
-	Keyword		= { fg = "#4e5c46" },
-	Statement	= { fg = "#91843c" },
+	Keyword		= { fg = "#bfd93d" },
+	Statement	= { fg = "#e3e637" },
 	LineNr		= { fg = "#688244" },
 	Normal		= { fg = "#ded6a9" },
 	Comment		= { fg = "#80995a" },
