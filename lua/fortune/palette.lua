@@ -7,7 +7,7 @@ local colors = {
 	Visual		= { bg = "#3c4d38" },
 	ErrorMsg	= { bg = "#9c301f" },
 	Statusline	= { bg = "#7c8a43",
-					fg = "#382703" },
+					fg ="#1f1502" },
 	Type		= { fg = "#71a13b" },
 	Identifier	= { fg = "#f4ff91" },
 	Constant	= { fg = "#e8cc4d" },
@@ -19,7 +19,7 @@ local colors = {
 					fg = "#d5d69c" },
 	PmenuSbar	= { bg = "#597843" },
 	Todo		= { bg = "#393b35",
-					fg = "#c4c276" },
+					fg = "#f8ffa1" },
 	NonText		= { fg = "#4b5c32" },
 	PreProc		= { fg = "#608a25" },
 	Search		= { bg = "#46543d" },
@@ -29,7 +29,8 @@ local colors = {
 	TabLineFill = { bg = nil },
 	MatchParen	= { bg = "#555c49" },
 	Cursor		= { fg = nil,
-					bg = "#e1ffad" }
+					bg = "#e1ffad" },
+	Title		= { fg = "#f6ff75" },	
 }
 
 return colors
