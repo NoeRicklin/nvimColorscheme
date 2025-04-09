@@ -2,7 +2,7 @@ local colors = {
 	Keyword		= { fg = "#bfd93d" },
 	Statement	= { fg = "#e3e637" },
 	LineNr		= { fg = "#688244" },
-	Normal		= { fg = "#ded6a9" },
+	Normal		= { fg = "#f2e29b" },
 	Comment		= { fg = "#80995a" },
 	Visual		= { bg = "#3c4d38" },
 	ErrorMsg	= { bg = "#9c301f" },
